@@ -1,0 +1,14 @@
+{
+  "name": "post-zavod",
+  "displayName": "Пост-завод",
+  "version": "0.1.0",
+  "description": "Посты для Телеграм-канала на русском вашим голосом: разбирает ваши прошлые посты, составляет профиль голоса и пишет черновики без штампов и инфоцыганщины.",
+  "author": {
+    "name": "Алексей Пономарев",
+    "url": "https://t.me/+VCZl1ZPdgfgwZmIy"
+  },
+  "homepage": "https://t.me/+VCZl1ZPdgfgwZmIy",
+  "repository": "https://github.com/AlekseyVegas/post-zavod",
+  "license": "MIT",
+  "keywords": ["telegram", "копирайтинг", "контент", "посты", "tone-of-voice", "russian"]
+}
